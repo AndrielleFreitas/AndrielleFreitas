@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @AndrielleFreitas
-- 👀 I’m interested in learn more about technology
-- 🌱 I am currently studying Information Technology at UNIVESP
-
-
-<!---
-AndrielleFreitas/AndrielleFreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Técnica de Suporte Júnior
+🎓 Sistemas de Informação | UFSC
+🖥️ Suporte Técnico | Infraestrutura | Redes | Hardware
+📊 GLPI | Zabbix | Windows
+🐍 Python | Desenvolvimento Web
+🚀 Em constante evolução na área de TI
