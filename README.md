@@ -1,6 +1,23 @@
+# Olá, eu sou a Andrielle 👋
+
 💻 Técnica de Suporte Júnior
-🎓 Sistemas de Informação | UFSC
-🖥️ Suporte Técnico | Infraestrutura | Redes | Hardware
-📊 GLPI | Zabbix | Windows
-🐍 Python | Desenvolvimento Web
-🚀 Em constante evolução na área de TI
+
+🎓 Estudante de Sistemas de Informação na UFSC
+
+🖥️ Experiência com:
+- Suporte técnico presencial e remoto
+- GLPI
+- Zabbix
+- Windows
+- Redes
+- Infraestrutura
+- Hardware
+
+📚 Atualmente estudando:
+- Python
+- Desenvolvimento Web
+- Redes de Computadores
+- Automação
+
+🚀 Objetivo:
+Crescer profissionalmente nas áreas de Suporte, Infraestrutura, Redes e Automação.
